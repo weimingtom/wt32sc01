@@ -15,5 +15,7 @@ to first row left 12 (pin 24).
 * If install ESP-IDF for windows, see https://dl.espressif.cn/dl/esp-idf/  
 
 ## Ref  
-* Wireless-Tag
-https://github.com/wireless-tag-com/WT32-SC01
+* Wireless-Tag  
+https://github.com/wireless-tag-com/WT32-SC01  
+* https://github.com/wireless-tag-com/8ms-esp32  
+* https://search.gitee.com/?q=wt32-sc01&type=repository  
