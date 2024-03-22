@@ -13,3 +13,7 @@ to first row left 12 (pin 24).
 * If build, use: idf.py build   
 * Tested under esp-idf 4.4.3 (4.3 may be ok)  
 * If install ESP-IDF for windows, see https://dl.espressif.cn/dl/esp-idf/  
+
+## Ref  
+* Wireless-Tag
+https://github.com/wireless-tag-com/WT32-SC01
