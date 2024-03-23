@@ -1,5 +1,6 @@
 # wt32sc01
 [WIP] My ESP-IDF LVGL project for WT32-SC01
+With LVGL 7 demo  
 
 ## How to burn to WT32-SC01  
 * WT32-SC01 v3.2, ESP32-WROVER B.  
@@ -12,10 +13,11 @@ to first row left 12 (pin 24).
 * If burn, use: idf.py flash, after burn, need to press RESET button on board       
 * If build, use: idf.py build   
 * Tested under esp-idf 4.4.3 (4.3 may be ok)  
-* If install ESP-IDF for windows, see https://dl.espressif.cn/dl/esp-idf/  
+* If install ESP-IDF for windows, see https://dl.espressif.cn/dl/esp-idf/
+* This screen (3.5inch,  480x320 with touch) is not very good, may be slow and too small, I don't recommand it and WT32-SC01-PLUS     
 
 ## Ref  
-* Wireless-Tag  
+* Wireless-Tag, ESP-IDF LVGL 8 widgets demo version   
 https://github.com/wireless-tag-com/WT32-SC01  
 * https://github.com/wireless-tag-com/8ms-esp32  
 * https://search.gitee.com/?q=wt32-sc01&type=repository  
