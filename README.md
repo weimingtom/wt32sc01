@@ -19,3 +19,6 @@ to first row left 12 (pin 24).
 https://github.com/wireless-tag-com/WT32-SC01  
 * https://github.com/wireless-tag-com/8ms-esp32  
 * https://search.gitee.com/?q=wt32-sc01&type=repository  
+
+## WT32-SC01-PLUS (with ESP32-S3) ref, not for WT32-SC01    
+* not for WT32-SC01: https://github.com/wireless-tag-com/ZX3D50CE02S  
