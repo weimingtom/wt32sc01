@@ -1,6 +1,5 @@
 # wt32sc01
-[WIP] My ESP-IDF LVGL project for WT32-SC01
-With LVGL 7 demo  
+[WIP] My ESP-IDF LVGL project for WT32-SC01 with LVGL 7 demo  
 
 ## How to burn to WT32-SC01  
 * WT32-SC01 v3.2, ESP32-WROVER B.  
